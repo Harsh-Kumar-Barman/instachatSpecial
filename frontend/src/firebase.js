@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBOYxL8lTU39ZO1kfYqjaRIHzgPPS46j9s",
-  authDomain: "instagram-clone-89dfb.firebaseapp.com",
-  projectId: "instagram-clone-89dfb",
-  storageBucket: "instagram-clone-89dfb.firebasestorage.app",
-  messagingSenderId: "410794037105",
-  appId: "1:410794037105:web:3b4504f27eac38c81a30d0"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
